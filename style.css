@@ -9,10 +9,12 @@ body{
     align-items: center;
     min-height: 100vh;
     background-color: rgb(255, 154, 71);
+    
 }
 
 .container{
     background-color: white;
+    box-shadow: 0 0 0.7rem rgb(0,0,0,0.7);
     padding: 2rem;
     border-radius: 1rem;
     min-height: 45vh;
